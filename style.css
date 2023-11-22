@@ -1,0 +1,36 @@
+.search-box{
+    padding:50px;
+    text-align: center;
+}
+.search-input{
+    padding:20px 30px;
+}
+#search-btn{
+    padding:20px 30px;
+    border: none;
+    background-color: rgb(29, 163, 216);
+    font-size: 22px;
+    color: white;
+    
+}
+.box{
+    width: 300px;
+    height: 450px;
+    border: 1px solid gray;
+    padding:10px;
+    text-align: center;
+    margin: 5px;
+}
+#meals-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.box-img{
+    /* width: 300px;
+    height: 250px; */
+    width: 100%;
+    /* padding: 20px; */
+}
